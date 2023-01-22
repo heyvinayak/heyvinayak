@@ -1,6 +1,6 @@
 <img align="right" width="250" src="assets/hyE.gif" width="250px">
 <h1 align="center">Hey there 👋, Vinayak Sharma this side. </h1>
-<h3 align="center">A passionate Software Student | Dev. Curious about working on different Projects and Ideas</h3>
+<h3 align="center">Figuring my code through life | Pre-ultimate year Computer Science | Aspiring Software Developer | Cosmic - The Business Society | Building Leazify </h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=heyvinayak&show_icons=true&theme=radical">
   </p>
