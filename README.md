@@ -12,7 +12,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=950&width=435&lines=Computer+Science;Pre-Ultimate+Year;Front-End+Developer;Building+Leazify" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
+<p align="left">
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/heyvinayak?style=social">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/heyvinayak?style=social">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/heyvinayak/heyvinayak?style=social">
