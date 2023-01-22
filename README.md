@@ -13,7 +13,9 @@
 </div>
 
 <p align="left">
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/heyvinayak?style=social"> 
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/heyvinayak?style=social">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/heyvinayak?style=social">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/heyvinayak/heyvinayak?style=social">
 </p>
 
 <h1><img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" height="40"/> Skills </h1>
